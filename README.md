@@ -166,7 +166,3 @@ Invoke-WebRequest http://localhost:5002/health | Select-Object -ExpandProperty C
 - **Sécurité**: changez `JWT_SECRET` en production; stockez secrets via vault.
 - **Frontend Lint**: `cd Frontend; npm run lint`.
 - **MongoDB**: assurez-vous que `MONGO_URI` est accessible.
-
----
-
-Besoin d’ajouter des scripts de démarrage combinés, une documentation d’API détaillée ou d’exposer le e‑commerce via le Gateway ? Je peux le faire.
