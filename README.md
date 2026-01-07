@@ -1,4 +1,4 @@
-# NexusCRM Monorepo
+# NexusCRM
 
 NexusCRM est une plateforme modulaire (microservices) pour CRM, e‑commerce et gestion des utilisateurs, avec un Frontend React (Vite) et un API Gateway pour unifier l’accès aux services.
 
